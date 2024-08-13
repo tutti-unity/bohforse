@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.elfgames.extensions": {
+      "version": "https://gitlab.com/elfgames/Unity-Extensions.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "0a6ae53eea7fb45937e0f9b493fb983fe2fa5079"
+    },
     "com.unity.2d.animation": {
       "version": "9.0.4",
       "depth": 1,
